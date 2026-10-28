@@ -1,5 +1,5 @@
-# مشروع تطبيقي: تنظيف وتحليل بيانات عملاء (Python + Excel)
-
+# مشروع تطبيقي: تنظيف وتحليل بيانات عملاء(Python + Excel)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdulhamedabdulhafez/data-analyst-portfolio/blob/main/project2_data_cleaning.ipynb)
 > **ملاحظة:** هذا مشروع تطبيقي. البيانات تجريبية بالكامل تم توليدها برمجياً، وليست بيانات عميل حقيقي.
 
 ## المشكلة
